@@ -1,0 +1,16 @@
+[project]
+name = "yale-energy-usage"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "fastexcel>=0.19.0",
+    "ipykernel>=7.2.0",
+    "pandas>=3.0.1",
+    "polars>=1.38.1",
+    "requests>=2.32.5",
+    "ruff>=0.15.4",
+    "tqdm>=4.67.3",
+]

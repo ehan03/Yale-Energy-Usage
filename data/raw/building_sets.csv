@@ -1,0 +1,17 @@
+bsID,bsName,bsDescription,bsPublic,owner,sort
+2,Served By SPP,,1,sa,60
+3,Served By CPP,,1,sa,60
+4,Served By WPP,,1,sa,60
+5,Served By CPP or SPP,,1,sa,60
+20,Power Plants,,1,sa,60
+21,Served By CPP or SPP or WPP,,1,sa,60
+50,Wet Laboratories,,1,sa,70
+51,Library & Museum,,1,sa,70
+52,Dormatory - Central,,1,sa,70
+53,Academic & Admin: Large,,1,sa,70
+54,Academic & Admin: Medium,,1,sa,70
+55,Academic & Admin: Small,,1,sa,70
+56,YSM Laboratories,,1,sa,70
+57,YSM Non Laboratories,,1,sa,70
+58,West Campus,,1,sa,70
+59,Not Served by Yale Plants,,1,sa,61
