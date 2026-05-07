@@ -1,0 +1,17 @@
+bs_id,name,sort
+2,Served By SPP,60
+3,Served By CPP,60
+4,Served By WPP,60
+5,Served By CPP or SPP,60
+20,Power Plants,60
+21,Served By CPP or SPP or WPP,60
+50,Wet Laboratories,70
+51,Library & Museum,70
+52,Dormatory - Central,70
+53,Academic & Admin: Large,70
+54,Academic & Admin: Medium,70
+55,Academic & Admin: Small,70
+56,YSM Laboratories,70
+57,YSM Non Laboratories,70
+58,West Campus,70
+59,Not Served by Yale Plants,61
